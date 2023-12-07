@@ -1,12 +1,12 @@
 # Hello World
-This is my home page! My name is Hannah Lu and I am a student at Cal State FullertonO(http://www.fullerton.edu/)and my major is Computer Science.
+This is my home page! My name is Hannah Lu and I am a student at Cal State Fullerton(http://www.fullerton.edu/)and my major is Computer Science.
 
 ## Computer Science Projects
 My GitHub page is https://github.com/hannahl150/hannahl150.github.io.
 
 ### CPSC 120
 *Lab 2
-
+git
     Lab 2: Even though looking back at lab 2 right now seeing it so simple I feel like doing it before seemed difficult. Looking back at it now I’m proud of how much I improved. Regardless of my improvements I feel like this lab is one of the most crucial because it covers the basics like declaring and initializing variables as well as taking in input and printing it. 
 *Lab 4
 
