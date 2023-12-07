@@ -2,7 +2,7 @@
 This is my home page! My name is Hannah Lu and I am a student at Cal State FullertonO(http://www.fullerton.edu/)and my major is Computer Science.
 
 ## Computer Science Projects
-My GitHub page is https://github.com/hannahl150/hannahl150.github.io.
+My GitHub page is https://github.com/hannahl150.github.io.
 
 ### CPSC 120
 * Lab 2
